@@ -1,5 +1,9 @@
 # Superstore Assistant using Flask, Ollama and ChromaDB
 
+## Application Demo
+
+![Superstore Assistant](app_demo.jpg)
+
 A beginner-friendly GenAI-powered retail analytics assistant built using:
 
 * Flask
